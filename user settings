@@ -1,4 +1,7 @@
 {
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "workbench.colorTheme": "Solarized Light",
     "editor.fontSize": 16,
     "editor.formatOnSave": true,
